@@ -1,0 +1,4 @@
+INDEX VERSION 1.131+C:\Users\kamil\Desktop\Universidad\Componentes\Lab9\.metadata\.plugins\org.eclipse.jdt.core
+288115882.index
+4024989979.index
+827280610.index

@@ -1,0 +1,5 @@
+package com.cenfotec.seguridad.configuration;
+
+public class MemorySecurityConfiguration {
+
+}
